@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jaywh/Documents/AI_ulster/COM774/CW2/mlruns/0/2cd142cf66214518af9adb9e769f762b/artifacts
+end_time: 1705259745230
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cd142cf66214518af9adb9e769f762b
+run_name: defiant-fawn-280
+run_uuid: 2cd142cf66214518af9adb9e769f762b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705259740473
+status: 3
+tags: []
+user_id: jaywh

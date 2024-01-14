@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jaywh/Documents/AI_ulster/COM774/CW2/mlruns/0/c5f2842fec544461b76d5ef598fb44e0/artifacts
+end_time: 1705259586734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5f2842fec544461b76d5ef598fb44e0
+run_name: rebellious-ram-392
+run_uuid: c5f2842fec544461b76d5ef598fb44e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705259572865
+status: 3
+tags: []
+user_id: jaywh

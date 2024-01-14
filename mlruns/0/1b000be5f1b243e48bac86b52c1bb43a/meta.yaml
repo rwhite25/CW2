@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jaywh/Documents/AI_ulster/COM774/CW2/mlruns/0/1b000be5f1b243e48bac86b52c1bb43a/artifacts
+end_time: 1705259650325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b000be5f1b243e48bac86b52c1bb43a
+run_name: calm-crane-807
+run_uuid: 1b000be5f1b243e48bac86b52c1bb43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705259645685
+status: 3
+tags: []
+user_id: jaywh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jaywh/Documents/AI_ulster/COM774/CW2/mlruns/0/a6fbc958a11d4079adb655cf86e2bbeb/artifacts
+end_time: 1705259722111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6fbc958a11d4079adb655cf86e2bbeb
+run_name: valuable-ant-766
+run_uuid: a6fbc958a11d4079adb655cf86e2bbeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705259714445
+status: 3
+tags: []
+user_id: jaywh

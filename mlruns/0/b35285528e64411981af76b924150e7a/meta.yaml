@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jaywh/Documents/AI_ulster/COM774/CW2/mlruns/0/b35285528e64411981af76b924150e7a/artifacts
+end_time: 1705266232121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b35285528e64411981af76b924150e7a
+run_name: fortunate-fawn-309
+run_uuid: b35285528e64411981af76b924150e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705266216568
+status: 3
+tags: []
+user_id: jaywh

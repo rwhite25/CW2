@@ -1,0 +1,9 @@
+digest: 6db8d5d4
+name: dataset
+profile: '{"features_shape": [2947, 562], "features_size": 1656214, "features_nbytes":
+  13249712}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 562]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "jaywh", "mlflow.source.name": "c:/Users/jaywh/Documents/AI_ulster/COM774/CW2/experiment.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

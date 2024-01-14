@@ -1,0 +1,8 @@
+digest: b6279ecb
+name: dataset
+profile: '{"num_rows": 10, "num_elements": 20}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Feature1"}, {"type": "double",
+  "name": "Feature2"}]}'
+source: '{"tags": {"mlflow.user": "jaywh", "mlflow.source.name": "test_model.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

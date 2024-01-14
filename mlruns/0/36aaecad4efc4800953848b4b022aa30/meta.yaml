@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jaywh/Documents/AI_ulster/COM774/CW2/mlruns/0/36aaecad4efc4800953848b4b022aa30/artifacts
+end_time: 1705259632272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36aaecad4efc4800953848b4b022aa30
+run_name: thundering-panda-168
+run_uuid: 36aaecad4efc4800953848b4b022aa30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705259627784
+status: 3
+tags: []
+user_id: jaywh
