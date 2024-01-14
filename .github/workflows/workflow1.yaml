@@ -20,5 +20,4 @@ jobs:
       - name: Add extension
         run: az extension add --name ml      
       - name:  Trigger Azure ML Job
-        working-directory: CW2
         run: az ml job create --file job.yaml --resource-group CW2 --workspace-name CW2
