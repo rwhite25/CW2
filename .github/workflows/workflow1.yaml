@@ -19,6 +19,8 @@ jobs:
         run: az account show
       - name: Add extension
         run: az extension add --name ml 
+      - name: install pandas
+        run: pip install pandas
       - name: Run model tests on test dataset
         run: python model_test.py     
       - name:  Trigger Azure ML Job
