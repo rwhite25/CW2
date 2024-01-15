@@ -1,10 +1,7 @@
 import pandas as pd
 import numpy as np
-import argparse
-import matplotlib.pyplot as plt
 import mlflow
 from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import classification_report, accuracy_score
 from sklearn.preprocessing import StandardScaler
 
