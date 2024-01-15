@@ -18,6 +18,8 @@ jobs:
       - name: Test azure login by getting details
         run: az account show
       - name: Add extension
-        run: az extension add --name ml      
+        run: az extension add --name ml 
+      - name: Run model tests on test dataset
+        run: python model_test.py     
       - name:  Trigger Azure ML Job
         run: az ml job create --file job.yaml --resource-group CW2 --workspace-name CW2
