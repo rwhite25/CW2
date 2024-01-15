@@ -16,7 +16,4 @@ evaluation_metrics = assessModel
 # Output the evaluation metrics
 print(evaluation_metrics)
 
-# Optionally, you can write the evaluation metrics to a file or log them to GitHub
-# If you use GitHub's logging commands, the metrics will be available in the Actions log
-for metric, value in evaluation_metrics.items():
-    print(f"::set-output name={metric}::{value}")
+
