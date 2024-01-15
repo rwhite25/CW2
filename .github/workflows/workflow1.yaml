@@ -23,7 +23,9 @@ jobs:
       - name: Add extension
         run: az extension add --name ml 
       - name: install dependencies
-        run: pip install pandas numpy mlflow
+        run: pip install pandas numpy mlflow unittest
+      - name: run unit test on model
+        run: python unit_test.py
       - name: Run model tests on test dataset
         run: python model_test.py     
       - name:  Trigger Azure ML Job
